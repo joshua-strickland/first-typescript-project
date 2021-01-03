@@ -2,4 +2,4 @@ var catBreed: String;
 
 catBreed = "manx";
 
-console.log(catBreed)
+console.log(catBreed);
