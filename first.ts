@@ -1,4 +1,4 @@
-var catBreed: String;
+var catBreed: string;
 
 catBreed = "manx";
 
