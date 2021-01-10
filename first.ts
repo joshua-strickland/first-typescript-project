@@ -64,4 +64,5 @@ function whatsTheRace(race: Race): string {
      return raceToReturn;
   }
 
+  //we pass in the character race we made into the the 'whatstherace' function to the console.log() function.
   console.log(whatsTheRace(joshsCharacterRace))
